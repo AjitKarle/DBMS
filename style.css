@@ -1,0 +1,17 @@
+.container{
+    max-width: 60%;
+    background-color: aquamarine;
+    padding: 34px;
+    margin: auto;
+}
+.container h3,h1{
+    text-align: center;
+}
+.container form{
+    text-align: center;
+    margin: 11px;
+}
+.container input{
+    width: 400px;
+    margin: 8px;
+}
